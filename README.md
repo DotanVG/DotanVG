@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DotanVG
-- 👀 I’m interested in QA testing and automation
+- 👀 I’m interested in Software Development, QA testing and automation
 - 🌱 I’m currently learning automation tools and Fullstack development
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me: email- dotanvg@gmail.com
