@@ -46,7 +46,6 @@ My toolbox includes:
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Chromium](https://img.shields.io/badge/Chromium-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 - 🗃️ Databases: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) and familiarity with database tools like ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
