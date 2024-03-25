@@ -23,12 +23,12 @@
 
 ### 🚀 About Me
 
-I am a passionate and versatile software developer based in Be'er Sheva, Israel, currently employed at Kanomi Ltd. My journey in software development is diverse, starting with Assembly & C languages during my high school and diploma years, advancing to C# Windows Desktop applications, and then to creating branded Chromium browsers and Chrome extensions. I also harbor aspirations in game development.
+I am a passionate and versatile software developer based in Be'er Sheva, Israel, currently looking for new Job opportunities. My journey in software development has been diverse, starting with Assembly & C languages during my high school and diploma years, advancing to C# Windows Desktop applications, and then to creating branded Chromium browsers and Chrome extensions. I also harbor aspirations in game development.
 
 ### 💼 Work Experience
 
 - 🕒 I have been working in the software development industry for almost 2 years now.
-- 👨‍💻 Currently, I work at Kanomi Ltd, where I'm part of a dynamic team working on diverse projects with varying tech stacks, including C#, WPF, Node.js, Chrome extensions and more.
+- 👨‍💻 Last Workplace: Kanomi Ltd, where I was part of a dynamic team working on diverse projects with varying tech stacks, including C#, WPF, Node.js, Chrome extensions and more.
 - 🌟 Previously, I have delved into areas such as electronics engineering, MERN stack development, and AI and gen AI applications exploration.
 
 ### 🛠️ Tech Stack
