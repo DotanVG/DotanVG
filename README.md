@@ -83,7 +83,7 @@ Remote Cloud Deployment experience with:
 
 ### 🤝 Let's Connect
 
-I'm always open to new opportunities, collaborations, and discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/dotan-veretzky-8102a6206/), drop me an [email](mailto:dotanvg@gmail.com), or chat with me on [WhatsApp](https://wa.me/972547792350).
+I'm always open to new opportunities, collaborations, and discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/dotan-v), drop me an [email](mailto:dotanvg@gmail.com), or chat with me on [WhatsApp](https://wa.me/972547792350).
 
 ---
 
