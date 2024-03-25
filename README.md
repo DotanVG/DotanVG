@@ -1,6 +1,6 @@
 <!--- My profile README.md -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E03AQHou04mY3Rgsw/profile-displayphoto-shrink_800_800/0/1639496090788?e=1712793600&v=beta&t=NA-4KE3Aastb5x85ko6uXvr_PS3u2ZjfAQAnl9tddyc" alt="Profile Image" style="border-radius: 50%;" width="200">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocLbmoZ1wlJXICGqhbWEY95d04aRKRoC8o826XIQNK8neT4=s288-c-no" alt="Profile Image" style="border-radius: 50%;" width="200">
 </p>
 
 <h1 align="center">Hi, I'm Dotan! 👋</h1>
@@ -9,15 +9,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dotan-veretzky-8102a6206/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="mailto:dotanvg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a> &nbsp;
-  <a href="https://wa.me/972547792350" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue" alt="LinkedIn">
+    </a> &nbsp;
+    <a href="mailto:dotanvg@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red" alt="Email@Gmail">
+    </a> &nbsp;
+    <a href="https://wa.me/972547792350" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp">
+    </a>
+  </p>
 
 ---
 
@@ -46,11 +46,11 @@ My toolbox includes:
 
 - 🧰 Frameworks and Tools:
 
- ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=.net&logoColor=white&labelColor=512BD4&logoWidth=20&logoHeight=20)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&logoWidth=20&logoHeight=20)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white&labelColor=000000&logoWidth=20&logoHeight=20)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB&labelColor=20232A&logoWidth=20&logoHeight=20)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE.svg?style=flat&logo=vite&logoColor=white&labelColor=B73BFE&logoWidth=20&logoHeight=20)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&logoWidth=20&logoHeight=20)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white&labelColor=000000&logoWidth=20&logoHeight=20)
+ ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=.net&logoColor=white&labelColor=512BD4&logoWidth=20&logoHeight=20)
 ![Chromium](https://img.shields.io/badge/Chromium-4285F4.svg?style=flat&logo=googlechrome&logoColor=white&labelColor=4285F4&logoWidth=20&logoHeight=20)
 
 - 🗃️ Databases & Cloud Deployment:
