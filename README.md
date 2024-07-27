@@ -37,7 +37,7 @@ My toolbox includes:
 
 - ⚙️ Languages: 
 
-![C Sharp](https://img.shields.io/badge/C%20Sharp-%23239120.svg?style=flat&logo=csharp&logoColor=white&labelColor=239120&logoWidth=20&logoHeight=20) 
+![C Sharp](https://img.shields.io/badge/C%20Sharp-%23239120.svg?style=flat&logo=c&logoColor=white&labelColor=239120&logoWidth=20&logoHeight=20) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&logoWidth=20&logoHeight=20)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white&labelColor=E34F26&logoWidth=20&logoHeight=20)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white&labelColor=1572B6&logoWidth=20&logoHeight=20)
@@ -74,7 +74,10 @@ Remote Cloud Deployment experience with:
  
 - 🎮 Game Development:
 
- Exploring ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity&labelColor=black&logoWidth=20&logoHeight=20) and looking forward to diving into ![Godot](https://img.shields.io/badge/-Godot-black?style=flat&logo=godot-engine&labelColor=black&logoWidth=20&logoHeight=20)
+ Exploring ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity&labelColor=black&logoWidth=20&logoHeight=20) looking forward to diving into ![Godot](https://img.shields.io/badge/-Godot-black?style=flat&logo=godot-engine&labelColor=black&logoWidth=20&logoHeight=20)
+and of course, exploring the limitless possibilities of ![Pico-8](https://img.shields.io/badge/Pico--8-8A2BE2?style=flat&logo=https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png&logoColor=white) for ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) code + pixel art + music mastery.
+
+Find my games on [itch.io](https://dotanvg.itch.io/)
 
 
 - 🕹️ Dive deeper into game development and bring my passion for gaming to life.
