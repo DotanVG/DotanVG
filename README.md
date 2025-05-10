@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Dotan! 👋</h1>
 
-<p align="center">👨‍💻 Software Developer | 🎮 Game Dev Enthusiast | 📟 Electronics Practical Engineer</p>
+<p align="center">👨‍💻 Software Engineer | 🎮 Game Dev Enthusiast | 📟 Electronics Practical Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dotan-veretzky-8102a6206/" target="_blank">
@@ -77,7 +77,7 @@ Remote Cloud Deployment experience with:
  Exploring ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity&labelColor=black&logoWidth=20&logoHeight=20) looking forward to diving into ![Godot](https://img.shields.io/badge/-Godot-black?style=flat&logo=godot-engine&labelColor=black&logoWidth=20&logoHeight=20)
 and of course, exploring the limitless possibilities of ![Pico-8](https://img.shields.io/badge/Pico--8-8A2BE2?style=flat&logo=https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png&logoColor=white) for ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) code + pixel art + music mastery.
 
-Find my games on [itch.io](https://dotanvg.itch.io/)
+Find my games on [itch.io](https://dotanv.itch.io/)
 
 
 - 🕹️ Dive deeper into game development and bring my passion for gaming to life.
@@ -87,9 +87,3 @@ Find my games on [itch.io](https://dotanvg.itch.io/)
 ### 🤝 Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/dotan-v), drop me an [email](mailto:dotanvg@gmail.com), or chat with me on [WhatsApp](https://wa.me/972547792350).
-
----
-
-<p align="center">
-  <i>Join me on this exciting journey through the realms of software development, electronics, and gaming!</i>
-</p>
