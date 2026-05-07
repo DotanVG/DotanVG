@@ -1,89 +1,126 @@
-<!--- My profile README.md -->
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocLbmoZ1wlJXICGqhbWEY95d04aRKRoC8o826XIQNK8neT4=s288-c-no" alt="Profile Image" style="border-radius: 50%;" width="200">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Dotan! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Dotan%20Veretzky&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Dev%20Enthusiast%20%7C%20Electronics%20Practical%20Engineer&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
 
-<p align="center">👨‍💻 Software Engineer | 🎮 Game Dev Enthusiast | 📟 Electronics Practical Engineer</p>
+<a href="https://github.com/dotanvg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer;Game+Dev+Enthusiast;Electronics+Practical+Engineer;Always+building%2C+always+learning" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dotan-veretzky-8102a6206/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue" alt="LinkedIn">
-    </a> &nbsp;
-    <a href="mailto:dotanvg@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red" alt="Email@Gmail">
-    </a> &nbsp;
-    <a href="https://wa.me/972547792350" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp">
-    </a>
-  </p>
+</div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a passionate and versatile software developer based in Be'er Sheva, Israel, currently looking for new Job opportunities. My journey in software development has been diverse, starting with Assembly & C languages during my high school and diploma years, advancing to C# Windows Desktop applications, and then to creating branded Chromium browsers and Chrome extensions. I also harbor aspirations in game development.
+**Software Engineer** · Be'er Sheva ↔ Tel Aviv
 
-### 💼 Work Experience
+Integration QA Specialist @ Zota | AI & GameDev Enthusiast
 
-- 🕒 I have been working in the software development industry for almost 2 years now.
-- 👨‍💻 Last Workplace: Kanomi Ltd, where I was part of a dynamic team working on diverse projects with varying tech stacks, including C#, WPF, Node.js, Chrome extensions and more.
-- 🌟 Previously, I have delved into areas such as electronics engineering, MERN stack development, and AI and gen AI applications exploration.
+---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-My toolbox includes:
+<div align="center">
 
-- ⚙️ Languages: 
+**AI & Tools**
 
-![C Sharp](https://img.shields.io/badge/C%20Sharp-%23239120.svg?style=flat&logo=c&logoColor=white&labelColor=239120&logoWidth=20&logoHeight=20) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&logoWidth=20&logoHeight=20)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white&labelColor=E34F26&logoWidth=20&logoHeight=20)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white&labelColor=1572B6&logoWidth=20&logoHeight=20)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C&logoWidth=20&logoHeight=20)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white&labelColor=3776AB&logoWidth=20&logoHeight=20)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Symphony](https://img.shields.io/badge/Symphony-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🧰 Frameworks and Tools:
+**Game Dev**
 
-![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB&labelColor=20232A&logoWidth=20&logoHeight=20)
-![Vite](https://img.shields.io/badge/Vite-B73BFE.svg?style=flat&logo=vite&logoColor=white&labelColor=B73BFE&logoWidth=20&logoHeight=20)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&logoWidth=20&logoHeight=20)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white&labelColor=000000&logoWidth=20&logoHeight=20)
- ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=.net&logoColor=white&labelColor=512BD4&logoWidth=20&logoHeight=20)
-![Chromium](https://img.shields.io/badge/Chromium-4285F4.svg?style=flat&logo=googlechrome&logoColor=white&labelColor=4285F4&logoWidth=20&logoHeight=20)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Pico-8](https://img.shields.io/badge/Pico--8-8A2BE2?style=for-the-badge&logoColor=white)
+![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
-- 🗃️ Databases & Cloud Deployment:
+**Frameworks & Runtimes**
 
- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&logoWidth=20&logoHeight=20) and familiarity with database tools like ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=FF6C37&logoWidth=20&logoHeight=20)
- 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-- 💻 IDEs:
+**Data & Cloud**
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white&labelColor=5C2D91&logoWidth=20&logoHeight=20)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white&labelColor=007ACC&logoWidth=20&logoHeight=20)
-![Google IDX Beta Tester](https://img.shields.io/badge/-Google%20IDX%20Beta%20Tester-%234285F4.svg?style=flat&logo=google&logoColor=white&labelColor=4285F4&logoWidth=20&logoHeight=20)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-- 🗃️ Databases & Cloud Deployment:
+**Languages**
 
- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&logoWidth=20&logoHeight=20) and familiarity with database tools like ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=FF6C37&logoWidth=20&logoHeight=20)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Remote Cloud Deployment experience with:
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7&labelColor=430098&logoWidth=20&logoHeight=20) and
- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white&labelColor=430098&logoWidth=20&logoHeight=20)
- 
-- 🎮 Game Development:
+</div>
 
- Exploring ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity&labelColor=black&logoWidth=20&logoHeight=20) looking forward to diving into ![Godot](https://img.shields.io/badge/-Godot-black?style=flat&logo=godot-engine&labelColor=black&logoWidth=20&logoHeight=20)
-and of course, exploring the limitless possibilities of ![Pico-8](https://img.shields.io/badge/Pico--8-8A2BE2?style=flat&logo=https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png&logoColor=white) for ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) code + pixel art + music mastery.
+---
 
-Find my games on [itch.io](https://dotanv.itch.io/)
+### GitHub Stats
 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotanvg&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotanvg&theme=default">
+  <img alt="Dotan's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotanvg&theme=tokyonight">
+</picture>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotanvg&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotanvg&theme=default">
+  <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotanvg&theme=tokyonight">
+</picture>
+</td>
+</tr>
+</table>
 
-- 🕹️ Dive deeper into game development and bring my passion for gaming to life.
-- 🧠 Stay updated with the latest AI technologies and cutting-edge language models.
-- 🌐 Contribute to open-source projects and collaborate with the developer community.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dotanvg&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dotanvg&theme=default&hide_border=true">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=dotanvg&theme=tokyonight&hide_border=true">
+</picture>
 
-### 🤝 Let's Connect
+<br/><br/>
 
-I'm always open to new opportunities, collaborations, and discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/dotan-v), drop me an [email](mailto:dotanvg@gmail.com), or chat with me on [WhatsApp](https://wa.me/972547792350).
+<img src="https://github-profile-trophy.vercel.app/?username=dotanvg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+### Let's Connect
+
+Open to collaborations and discussions. Reach out anytime.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dotan-v"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dotanvg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/972547792350"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://dotanv.netlify.app"><img src="https://img.shields.io/badge/Personal_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Personal Website"/></a>
+<a href="https://dotanv.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/></a>
+<a href="https://github.com/dotanvg"><img src="https://komarev.com/ghpvc/?username=dotanvg&style=for-the-badge&color=7AA2F7&label=Profile+Views" alt="Profile views"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer banner"/>
