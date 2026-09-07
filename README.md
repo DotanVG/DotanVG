@@ -100,10 +100,6 @@ Integration QA Specialist @ Zota | AI & GameDev Enthusiast
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=dotanvg&theme=tokyonight&hide_border=true">
 </picture>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dotanvg&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies"/>
-
 </div>
 
 ---
