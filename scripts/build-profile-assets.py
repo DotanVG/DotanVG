@@ -100,7 +100,7 @@ print('Generated', len(list(OUT.glob('*.svg'))), 'SVGs')
 
 # A local animated tagline avoids depending on an external typing-image service.
 taglines = ["Software Engineer", "Integration QA Specialist", "Practical AI Tools", "Game Dev Enthusiast", "Always building, always learning"]
-tagline = '<svg xmlns="http://www.w3.org/2000/svg" width="760" height="48" viewBox="0 0 760 48" role="img" aria-label="Software engineer, integration QA specialist, AI tools and game development"><style>text{font:600 21px monospace;fill:#66e6d4;opacity:0;animation:rotate 20s infinite}@keyframes rotate{0%,18%{opacity:1}20%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){text{animation:none}text:first-of-type{opacity:1}}</style>'
+tagline = '<svg xmlns="http://www.w3.org/2000/svg" width="760" height="48" viewBox="0 0 760 48" role="img" aria-label="Software engineer, integration QA specialist, AI tools and game development"><style>text{font:600 21px monospace;fill:#66e6d4;opacity:0;animation:rotate 20s infinite}@keyframes rotate{0%,18%{opacity:1}20%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){text{animation:none}text:first-of-type{opacity:1}}</style><rect width="760" height="48" rx="12" fill="#0b111b"/>'
 for index, label in enumerate(taglines):
     tagline += f'<text x="380" y="31" text-anchor="middle" style="animation-delay:{index * 4}s">{escape(label)}</text>'
 tagline += '</svg>'
