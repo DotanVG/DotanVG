@@ -82,16 +82,3 @@ I work at the intersection of **API integrations, practical AI tools, and game d
 | **Web & services** | TypeScript, JavaScript, React, Next.js, Node.js, Express |
 | **Games & desktop** | Phaser, Three.js, Unity, C#, WPF |
 | **AI & automation** | Claude Code, Codex, Python, reusable skills and workflows |
-
-<details>
-<summary><b>Where it started</b></summary>
-
-- **[Whack-A-Meteor](https://github.com/DotanVG/Whack-A-Meteor-2D-Space-Shooter)**: my first Unity project, kept as a record of learning game development.
-- **[WinFormGradebook](https://github.com/DotanVG/WinFormGradebook)**: the early C# Windows Forms take-home assignment that helped me land a junior developer role.
-- **[KalMagMixer](https://github.com/DotanVG/KalMagMixer)**: a Unity music-platformer jam project with original music and art from the team.
-
-</details>
-
----
-
-**Have a project that connects systems, automates useful work, or makes something fun?** [Let's talk.](mailto:dotanvg@gmail.com)
