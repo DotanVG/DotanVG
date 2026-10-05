@@ -3,11 +3,17 @@
 </p>
 
 <p align="center">
+  <img src="assets/profile/tagline.svg" width="90%" alt="Software Engineer · Integration QA Specialist · Practical AI Tools · Game Dev Enthusiast · Always building, always learning" />
+</p>
+
+<p align="center">
   <a href="https://dotanv.vercel.app/"><b>Explore my portfolio</b></a> ·
   <a href="https://dotanv.itch.io">Play my games</a> ·
   <a href="https://www.linkedin.com/in/dotan-v">LinkedIn</a> ·
   <a href="mailto:dotanvg@gmail.com">Email</a>
 </p>
+
+<a href="https://dotanv.vercel.app/"><img align="right" src="assets/profile/mini-dotan-greeting.gif" width="104" alt="Mini Dotan blinks and waves hello. Meet him on my personal website." /></a>
 
 I'm **Dotan**, a software engineer and **Integration QA Specialist at Zota**, based in Be'er Sheva, Israel. My background is in Electronics & Computers practical engineering.
 
@@ -53,6 +59,20 @@ I work at the intersection of **API integrations, practical AI tools, and game d
 </td>
 </tr>
 </table>
+
+## Behind the commits
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotanvg&amp;theme=tokyonight" width="49%" alt="GitHub activity: commits, pull requests, issues and stars" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotanvg&amp;theme=tokyonight" width="49%" alt="Languages used across my GitHub commits" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotanvg&amp;theme=tokyonight" width="100%" alt="GitHub contribution history" />
+</p>
+<p align="center">
+  <a href="https://dotanv.vercel.app/"><img src="assets/profile/mini-dotan-typing.gif" width="96" alt="Mini Dotan working at his laptop" /></a><br />
+  <sub><b>Mini Dotan is on the case.</b> My animated companion also lives on <a href="https://dotanv.vercel.app/">my website</a>.</sub>
+</p>
 
 ## What I work with
 

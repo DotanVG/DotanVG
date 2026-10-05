@@ -19,13 +19,22 @@ def svg(name, width, height, title, body):
 </svg>\n'''
     (OUT / name).write_text(value)
 
-hero = '''<defs>
+hero = '''<style>
+.wave { animation: drift 18s linear infinite; }
+.wave-back { animation: drift 27s linear infinite reverse; }
+.signal-pulse { animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes drift { to { transform: translateX(-800px); } }
+@keyframes pulse { 50% { opacity: .4; transform: scale(.75); } }
+@media (prefers-reduced-motion: reduce) { .wave, .wave-back, .signal-pulse { animation: none; } }
+</style><defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c2b"/><stop offset="1" stop-color="#090e17"/></linearGradient>
 <linearGradient id="signal"><stop stop-color="#66e6d4"/><stop offset="1" stop-color="#a995ff"/></linearGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9aaec5" stroke-opacity=".07"/></pattern>
 </defs>
 <rect width="1200" height="480" rx="24" fill="url(#bg)"/>
 <rect x="1" y="1" width="1198" height="478" rx="24" fill="url(#grid)" stroke="#27384b"/>
+<g opacity=".16" fill="#a995ff"><path class="wave-back" d="M-800 48 Q-600 108 -400 48 T0 48 T400 48 T800 48 T1200 48 T1600 48 T2000 48 T2400 48 V0H-800Z"/></g>
+<g opacity=".13" fill="#66e6d4"><path class="wave" d="M-800 65 Q-600 5 -400 65 T0 65 T400 65 T800 65 T1200 65 T1600 65 T2000 65 T2400 65 V0H-800Z"/></g>
 <path d="M48 0H1152" stroke="url(#signal)" stroke-width="4"/>
 '''
 hero += text(48, 57, 'DOTAN VERETZKY', 20, FG, 700, 3)
@@ -41,7 +50,7 @@ hero += '''<g fill="none" stroke-linecap="round" stroke-linejoin="round">
 <path d="M965 113V239 M856 289L965 239L1074 289" stroke="#a995ff" stroke-opacity=".3" stroke-dasharray="4 7"/>
 <ellipse cx="965" cy="239" rx="159" ry="52" transform="rotate(-30 965 239)" stroke="#a995ff" stroke-opacity=".35"/>
 </g>
-<g fill="#66e6d4"><circle cx="765" cy="116" r="5"/><circle cx="747" cy="193" r="5"/><circle cx="778" cy="273" r="5"/><circle cx="965" cy="239" r="6"/></g>
+<g fill="#66e6d4"><circle cx="765" cy="116" r="5"/><circle cx="747" cy="193" r="5"/><circle cx="778" cy="273" r="5"/><circle class="signal-pulse" cx="965" cy="239" r="6"/></g>
 <circle cx="1074" cy="176" r="6" fill="#a995ff"/>
 <path d="M48 393H1152" stroke="#27384b"/>
 '''
@@ -88,3 +97,11 @@ for name, label, title, desc, stack, accent, motif in projects:
     body += f'<g transform="translate(367 63)">{art}</g>'
     svg(name+'.svg', 600, 280, title+': '+desc, body)
 print('Generated', len(list(OUT.glob('*.svg'))), 'SVGs')
+
+# A local animated tagline avoids depending on an external typing-image service.
+taglines = ["Software Engineer", "Integration QA Specialist", "Practical AI Tools", "Game Dev Enthusiast", "Always building, always learning"]
+tagline = '<svg xmlns="http://www.w3.org/2000/svg" width="760" height="48" viewBox="0 0 760 48" role="img" aria-label="Software engineer, integration QA specialist, AI tools and game development"><style>text{font:600 21px monospace;fill:#66e6d4;opacity:0;animation:rotate 20s infinite}@keyframes rotate{0%,18%{opacity:1}20%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){text{animation:none}text:first-of-type{opacity:1}}</style>'
+for index, label in enumerate(taglines):
+    tagline += f'<text x="380" y="31" text-anchor="middle" style="animation-delay:{index * 4}s">{escape(label)}</text>'
+tagline += '</svg>'
+(OUT / "tagline.svg").write_text(tagline)
